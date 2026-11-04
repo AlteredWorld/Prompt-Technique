@@ -15,4 +15,6 @@ Qwen3.8-27B is an open-weights model released by Alibaba Group. This model is re
 ## Harnessing the capability of Qwen3.8-27B
 Although Qwen3.8-27B _cannot zero-shot/one-shot prompts_, it is still capable of reaching your desired output if your organize and structure your prompts properly.
 When structuring prompts, you must set a clear goal or desired output. Divide your tasks and plan your strategy to achieve your desired goal. For example, a good strategy for developing an software entirely could be done using Software Development Life Cycle (SDLC):
---- Stage ---: --- Description ---
+|Stage|Process|
+|---|---|
+|Planning|Yes|
