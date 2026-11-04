@@ -22,3 +22,5 @@ When structuring prompts, you must set a clear goal or desired output. Divide yo
 |Prompting|Create a prompt for each task, and make necessary adjustment if needed when your application reach a certain level of completion|
 |Orchestrate|Design how you plan to orchestrate the process and prompt it. State clear goal, tests, outputs etc.|
 |Execute|Ask Qwen3.8-27B or your model to read the orchestration prompt and monitor its actions.|
+
+## Demo: Flowchart Application
