@@ -17,4 +17,9 @@ Although Qwen3.8-27B _cannot zero-shot/one-shot prompts_, it is still capable of
 When structuring prompts, you must set a clear goal or desired output. Divide your tasks and plan your strategy to achieve your desired goal. For example, a good strategy for developing an software entirely could be done using Software Development Life Cycle (SDLC):
 |Stage|Process|
 |---|---|
-|Planning|Yes|
+|Planning|
+- Document your stuffs
+- Add diagram|
+|Requirements Analysis||
+|System Design|Development|
+|Testing||
