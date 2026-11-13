@@ -64,3 +64,5 @@ A basic strategy for developing a software application looks like this:
 | **5. Execution** | Feed the orchestration prompt to the model. Monitor its output and iterate where needed. |
 
 > **Key principle:** The model is not a black box that you hope will "figure it out." It is a component that performs well when you give it a specific, well-shaped task.
+
+## Demo: Flowchart Application
